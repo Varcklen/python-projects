@@ -17,3 +17,4 @@ mult = x * y
 div = x / y
 
 print(f"Результат: sum: {sum}, sub: {sub}, mult: {mult}, div: {div}.")
+input()

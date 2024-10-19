@@ -7,3 +7,4 @@
 
 string_value = input("Введiть тризначне ціле число: ")
 print(string_value[0], string_value[1], string_value[2], sep="\n")
+input()

@@ -15,3 +15,4 @@ min = min(number1, number2, number3, number4, number5)
 max = max(number1, number2, number3, number4, number5)
 avg = (number1 + number2 + number3 + number4 + number5) / 5
 print(f"min: {min}, max: {max}, avg: {avg}.")
+input()

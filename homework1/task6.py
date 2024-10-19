@@ -6,3 +6,4 @@ dollar = float(input("Вкажiть суму у долларах: "))
 CONVERT_VALUE = 41.11
 hryvnia = dollar * CONVERT_VALUE
 print(f"Сума у гривнях: {hryvnia}.")
+input()

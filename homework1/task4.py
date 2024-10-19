@@ -7,3 +7,4 @@ diameter = radius * 2
 с = PI * diameter
 s = PI * (radius ** 2)
 print(f"Резульати: Діаметр: {diameter}, Довжина: {с}, Площа: {s}.")
+input()
